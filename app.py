@@ -129,9 +129,9 @@ with tab1:
 
     st.subheader("Summary of Key Findings")
     st.write(
-       ("\nWorld population increased from approximately 2.5 billion in 1950 to over 8 billion in 2023.\n")
-        ("\nAnnual population additions changed over time.\n")
-        ("\nThe annual increase generally declined in recent years, although total population continued to grow.\n")
+        "\nWorld population increased from approximately 2.5 billion in 1950 to over 8 billion in 2023.\n"
+        "\nAnnual population additions changed over time.\n"
+        "\nThe annual increase generally declined in recent years, although total population continued to grow.\n"
     )
 
 with tab2:
