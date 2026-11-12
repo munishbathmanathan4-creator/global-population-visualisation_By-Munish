@@ -129,8 +129,8 @@ with tab1:
 
     st.subheader("Summary of Key Findings")
     st.write(
-        "World population increased from approximately 2.5 billion in 1950 to over 8 billion in 2023. "
-        "Annual population additions changed over time. "
+        "World population increased from approximately 2.5 billion in 1950 to over 8 billion in 2023."
+        "Annual population additions changed over time."
         "The annual increase generally declined in recent years, although total population continued to grow."
     )
 
@@ -182,8 +182,8 @@ with tab2:
 
         st.subheader("Summary of Key Findings")
         st.write(
-            "Asia has the largest population among the continents. "
-            "Africa experienced strong population growth. "
+            "Asia has the largest population among the continents."
+            "Africa experienced strong population growth."
             "Africa's share of the combined continental population increased over time."
         )
 
@@ -235,8 +235,8 @@ with tab3:
 
     st.subheader("Summary of Key Findings")
     st.write(
-        "India and China are the two largest country entries in 2023. "
-        "The United States is the third-largest entry. "
+        "India and China are the two largest country entries in 2023."
+        "The United States is the third-largest entry."
         "The map and pie chart show geographic distribution and population differences among the top ten entries."
     )
 
