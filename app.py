@@ -182,9 +182,9 @@ with tab2:
 
         st.subheader("Summary of Key Findings")
         st.write(
-            "Asia has the largest population among the continents."
-            "Africa experienced strong population growth."
-            "Africa's share of the combined continental population increased over time."
+            "\nAsia has the largest population among the continents. \n"
+            "\nAfrica experienced strong population growth. \n"
+            "\nAfrica's share of the combined continental population increased over time. \n"
         )
 
 with tab3:
@@ -235,9 +235,9 @@ with tab3:
 
     st.subheader("Summary of Key Findings")
     st.write(
-        "India and China are the two largest country entries in 2023."
-        "The United States is the third-largest entry."
-        "The map and pie chart show geographic distribution and population differences among the top ten entries."
+        "\nIndia and China are the two largest country entries in 2023.\n"
+        "\nThe United States is the third-largest entry.\n"
+        "\nThe map and pie chart show geographic distribution and population differences among the top ten entries.\n"
     )
 
 st.divider()
