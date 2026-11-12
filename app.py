@@ -41,7 +41,7 @@ def load_data():
     return df
 
 st.title("🌍 Global Population Growth and Distribution")
-st.caption("JIE42403 – Scientific Visualisation | Interactive Streamlit report")
+st.caption("JIE42403 – Scientific Visualisation | Interactive Streamlit Dashboard | Munish_S23B0227")
 
 with st.expander("About this project and data source"):
     st.write(
