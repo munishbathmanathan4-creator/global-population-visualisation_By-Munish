@@ -127,11 +127,11 @@ with tab1:
     )
     st.plotly_chart(fig3, use_container_width=True)
 
-    st.subheader("Interpretation guide")
+    st.subheader("Summary of Key Findings")
     st.write(
-        "Use the line and area charts to describe whether global population generally increased, "
-        "and use the annual-change chart to identify periods when yearly additions were larger or smaller. "
-        "Write your final interpretation after checking the displayed charts; do not assume every year has the same growth."
+        "World population increased from approximately 2.5 billion in 1950 to over 8 billion in 2023. "
+        "Annual population additions changed over time. "
+        "The annual increase generally declined in recent years, although total population continued to grow."
     )
 
 with tab2:
@@ -180,11 +180,11 @@ with tab2:
         )
         st.plotly_chart(fig6, use_container_width=True)
 
-        st.subheader("Interpretation guide")
+        st.subheader("Summary of Key Findings")
         st.write(
-            "Compare the slopes of the continental lines to discuss which regions grew more quickly. "
-            "Use the latest-year bar chart to compare population size. The area chart shows each continent's "
-            "share of the combined population of the listed continents; it is not a growth-rate chart."
+            "Asia has the largest population among the continents. "
+            "Africa experienced strong population growth. "
+            "Africa's share of the combined continental population increased over time."
         )
 
 with tab3:
@@ -233,11 +233,11 @@ with tab3:
     )
     st.plotly_chart(fig9, use_container_width=True)
 
-    st.subheader("Interpretation guide")
+    st.subheader("Summary of Key Findings")
     st.write(
-        "Use the horizontal bar chart to rank the most populous countries/areas. The map reveals the "
-        "geographic concentration of population, while the pie chart compares the relative contributions "
-        "of the ten largest entries only—not their share of the entire world's population."
+        "India and China are the two largest country entries in 2023. "
+        "The United States is the third-largest entry. "
+        "The map and pie chart show geographic distribution and population differences among the top ten entries."
     )
 
 st.divider()
